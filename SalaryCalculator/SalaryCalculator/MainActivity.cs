@@ -33,6 +33,12 @@ namespace SalaryCalculator
       {
         string grossSalaryString = grossSalaryText.Text;
 
+        if(string.IsNullOrEmpty(grossSalaryString))
+        {
+          grossSalaryString = "0.0";
+          grossSalaryText.Text = "0.0";
+        }
+
         double grossSalary = Convert.ToDouble(grossSalaryString);
         double basicPerMonth = grossSalary / 12.0;
         double totalBonus = 0.0;
