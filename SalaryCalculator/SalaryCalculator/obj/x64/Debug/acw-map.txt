@@ -1,0 +1,4 @@
+SalaryCalculator.MainActivity, SalaryCalculator;md5dd8e4565fa6e8bc666c1a40f2b43c743.MainActivity
+SalaryCalculator.MainActivity, SalaryCalculator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5dd8e4565fa6e8bc666c1a40f2b43c743.MainActivity
+SalaryCalculator.MainActivity;md5dd8e4565fa6e8bc666c1a40f2b43c743.MainActivity
+salarycalculator.MainActivity;md5dd8e4565fa6e8bc666c1a40f2b43c743.MainActivity

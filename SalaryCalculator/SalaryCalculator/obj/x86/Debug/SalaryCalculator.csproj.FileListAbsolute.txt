@@ -1,0 +1,14 @@
+C:\Users\MKeel\documents\visual studio 2015\Projects\SalaryCalculator\SalaryCalculator\bin\x86\Debug\SalaryCalculator.dll
+C:\Users\MKeel\documents\visual studio 2015\Projects\SalaryCalculator\SalaryCalculator\bin\x86\Debug\SalaryCalculator.pdb
+C:\Users\MKeel\documents\visual studio 2015\Projects\SalaryCalculator\SalaryCalculator\bin\x86\Debug\SalaryCalculator.SalaryCalculator.apk
+C:\Users\MKeel\documents\visual studio 2015\Projects\SalaryCalculator\SalaryCalculator\bin\x86\Debug\SalaryCalculator.SalaryCalculator-Signed.apk
+C:\Users\MKeel\documents\visual studio 2015\Projects\SalaryCalculator\SalaryCalculator\obj\x86\Debug\SalaryCalculator.dll
+C:\Users\MKeel\documents\visual studio 2015\Projects\SalaryCalculator\SalaryCalculator\obj\x86\Debug\SalaryCalculator.pdb
+C:\Users\MKeel\documents\visual studio 2015\Projects\SalaryCalculator\SalaryCalculator\obj\x86\Debug\android\bin\SalaryCalculator.SalaryCalculator.apk
+C:\Users\MKeel\documents\visual studio 2015\Projects\SalaryCalculator\SalaryCalculator\obj\x86\Debug\res\layout\main.xml
+C:\Users\MKeel\documents\visual studio 2015\Projects\SalaryCalculator\SalaryCalculator\obj\x86\Debug\res\values\strings.xml
+C:\Users\MKeel\documents\visual studio 2015\Projects\SalaryCalculator\SalaryCalculator\obj\x86\Debug\res\drawable\icon.png
+C:\Users\MKeel\documents\visual studio 2015\Projects\SalaryCalculator\SalaryCalculator\obj\x86\Debug\R.cs.flag
+C:\Users\MKeel\documents\visual studio 2015\Projects\SalaryCalculator\SalaryCalculator\obj\x86\Debug\uploadflags.txt
+C:\Users\MKeel\documents\visual studio 2015\Projects\SalaryCalculator\SalaryCalculator\obj\x86\Debug\SalaryCalculator.dll.mdb
+C:\Users\MKeel\documents\visual studio 2015\Projects\SalaryCalculator\SalaryCalculator\bin\x86\Debug\SalaryCalculator.dll.mdb
