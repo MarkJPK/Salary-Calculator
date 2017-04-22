@@ -2,7 +2,7 @@
 <xs:schema xmlns:android="http://schemas.android.com/apk/res/android" attributeFormDefault="qualified" targetNamespace="http://schemas.android.com/apk/res/android" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v24</xs:documentation>
-    <xs:documentation>22/04/2017 18:11:18</xs:documentation>
+    <xs:documentation>22/04/2017 18:16:17</xs:documentation>
   </xs:annotation>
   <xs:attribute name="accessibilityLiveRegion">
     <xs:annotation>
@@ -17328,6 +17328,9 @@
             <xs:enumeration value="@id/gridLayout2" />
             <xs:enumeration value="@id/GrossPayText" />
             <xs:enumeration value="@id/GrossSalaryText" />
+            <xs:enumeration value="@id/menu_edit" />
+            <xs:enumeration value="@id/menu_preferences" />
+            <xs:enumeration value="@id/menu_save" />
             <xs:enumeration value="@id/MonthlyNationalInsuranceText" />
             <xs:enumeration value="@id/MonthlyPensionText" />
             <xs:enumeration value="@id/MonthlyTaxText" />
@@ -20296,6 +20299,9 @@
             <xs:enumeration value="@id/gridLayout2" />
             <xs:enumeration value="@id/GrossPayText" />
             <xs:enumeration value="@id/GrossSalaryText" />
+            <xs:enumeration value="@id/menu_edit" />
+            <xs:enumeration value="@id/menu_preferences" />
+            <xs:enumeration value="@id/menu_save" />
             <xs:enumeration value="@id/MonthlyNationalInsuranceText" />
             <xs:enumeration value="@id/MonthlyPensionText" />
             <xs:enumeration value="@id/MonthlyTaxText" />
@@ -20391,6 +20397,9 @@
             <xs:enumeration value="@id/gridLayout2" />
             <xs:enumeration value="@id/GrossPayText" />
             <xs:enumeration value="@id/GrossSalaryText" />
+            <xs:enumeration value="@id/menu_edit" />
+            <xs:enumeration value="@id/menu_preferences" />
+            <xs:enumeration value="@id/menu_save" />
             <xs:enumeration value="@id/MonthlyNationalInsuranceText" />
             <xs:enumeration value="@id/MonthlyPensionText" />
             <xs:enumeration value="@id/MonthlyTaxText" />
@@ -20486,6 +20495,9 @@
             <xs:enumeration value="@id/gridLayout2" />
             <xs:enumeration value="@id/GrossPayText" />
             <xs:enumeration value="@id/GrossSalaryText" />
+            <xs:enumeration value="@id/menu_edit" />
+            <xs:enumeration value="@id/menu_preferences" />
+            <xs:enumeration value="@id/menu_save" />
             <xs:enumeration value="@id/MonthlyNationalInsuranceText" />
             <xs:enumeration value="@id/MonthlyPensionText" />
             <xs:enumeration value="@id/MonthlyTaxText" />
@@ -20581,6 +20593,9 @@
             <xs:enumeration value="@id/gridLayout2" />
             <xs:enumeration value="@id/GrossPayText" />
             <xs:enumeration value="@id/GrossSalaryText" />
+            <xs:enumeration value="@id/menu_edit" />
+            <xs:enumeration value="@id/menu_preferences" />
+            <xs:enumeration value="@id/menu_save" />
             <xs:enumeration value="@id/MonthlyNationalInsuranceText" />
             <xs:enumeration value="@id/MonthlyPensionText" />
             <xs:enumeration value="@id/MonthlyTaxText" />
@@ -20676,6 +20691,9 @@
             <xs:enumeration value="@id/gridLayout2" />
             <xs:enumeration value="@id/GrossPayText" />
             <xs:enumeration value="@id/GrossSalaryText" />
+            <xs:enumeration value="@id/menu_edit" />
+            <xs:enumeration value="@id/menu_preferences" />
+            <xs:enumeration value="@id/menu_save" />
             <xs:enumeration value="@id/MonthlyNationalInsuranceText" />
             <xs:enumeration value="@id/MonthlyPensionText" />
             <xs:enumeration value="@id/MonthlyTaxText" />
@@ -21011,6 +21029,9 @@
             <xs:enumeration value="@id/gridLayout2" />
             <xs:enumeration value="@id/GrossPayText" />
             <xs:enumeration value="@id/GrossSalaryText" />
+            <xs:enumeration value="@id/menu_edit" />
+            <xs:enumeration value="@id/menu_preferences" />
+            <xs:enumeration value="@id/menu_save" />
             <xs:enumeration value="@id/MonthlyNationalInsuranceText" />
             <xs:enumeration value="@id/MonthlyPensionText" />
             <xs:enumeration value="@id/MonthlyTaxText" />
@@ -21106,6 +21127,9 @@
             <xs:enumeration value="@id/gridLayout2" />
             <xs:enumeration value="@id/GrossPayText" />
             <xs:enumeration value="@id/GrossSalaryText" />
+            <xs:enumeration value="@id/menu_edit" />
+            <xs:enumeration value="@id/menu_preferences" />
+            <xs:enumeration value="@id/menu_save" />
             <xs:enumeration value="@id/MonthlyNationalInsuranceText" />
             <xs:enumeration value="@id/MonthlyPensionText" />
             <xs:enumeration value="@id/MonthlyTaxText" />
@@ -21201,6 +21225,9 @@
             <xs:enumeration value="@id/gridLayout2" />
             <xs:enumeration value="@id/GrossPayText" />
             <xs:enumeration value="@id/GrossSalaryText" />
+            <xs:enumeration value="@id/menu_edit" />
+            <xs:enumeration value="@id/menu_preferences" />
+            <xs:enumeration value="@id/menu_save" />
             <xs:enumeration value="@id/MonthlyNationalInsuranceText" />
             <xs:enumeration value="@id/MonthlyPensionText" />
             <xs:enumeration value="@id/MonthlyTaxText" />
@@ -21336,6 +21363,9 @@
             <xs:enumeration value="@id/gridLayout2" />
             <xs:enumeration value="@id/GrossPayText" />
             <xs:enumeration value="@id/GrossSalaryText" />
+            <xs:enumeration value="@id/menu_edit" />
+            <xs:enumeration value="@id/menu_preferences" />
+            <xs:enumeration value="@id/menu_save" />
             <xs:enumeration value="@id/MonthlyNationalInsuranceText" />
             <xs:enumeration value="@id/MonthlyPensionText" />
             <xs:enumeration value="@id/MonthlyTaxText" />
@@ -21873,6 +21903,9 @@
             <xs:enumeration value="@id/gridLayout2" />
             <xs:enumeration value="@id/GrossPayText" />
             <xs:enumeration value="@id/GrossSalaryText" />
+            <xs:enumeration value="@id/menu_edit" />
+            <xs:enumeration value="@id/menu_preferences" />
+            <xs:enumeration value="@id/menu_save" />
             <xs:enumeration value="@id/MonthlyNationalInsuranceText" />
             <xs:enumeration value="@id/MonthlyPensionText" />
             <xs:enumeration value="@id/MonthlyTaxText" />
@@ -21968,6 +22001,9 @@
             <xs:enumeration value="@id/gridLayout2" />
             <xs:enumeration value="@id/GrossPayText" />
             <xs:enumeration value="@id/GrossSalaryText" />
+            <xs:enumeration value="@id/menu_edit" />
+            <xs:enumeration value="@id/menu_preferences" />
+            <xs:enumeration value="@id/menu_save" />
             <xs:enumeration value="@id/MonthlyNationalInsuranceText" />
             <xs:enumeration value="@id/MonthlyPensionText" />
             <xs:enumeration value="@id/MonthlyTaxText" />
@@ -22063,6 +22099,9 @@
             <xs:enumeration value="@id/gridLayout2" />
             <xs:enumeration value="@id/GrossPayText" />
             <xs:enumeration value="@id/GrossSalaryText" />
+            <xs:enumeration value="@id/menu_edit" />
+            <xs:enumeration value="@id/menu_preferences" />
+            <xs:enumeration value="@id/menu_save" />
             <xs:enumeration value="@id/MonthlyNationalInsuranceText" />
             <xs:enumeration value="@id/MonthlyPensionText" />
             <xs:enumeration value="@id/MonthlyTaxText" />
@@ -22158,6 +22197,9 @@
             <xs:enumeration value="@id/gridLayout2" />
             <xs:enumeration value="@id/GrossPayText" />
             <xs:enumeration value="@id/GrossSalaryText" />
+            <xs:enumeration value="@id/menu_edit" />
+            <xs:enumeration value="@id/menu_preferences" />
+            <xs:enumeration value="@id/menu_save" />
             <xs:enumeration value="@id/MonthlyNationalInsuranceText" />
             <xs:enumeration value="@id/MonthlyPensionText" />
             <xs:enumeration value="@id/MonthlyTaxText" />
