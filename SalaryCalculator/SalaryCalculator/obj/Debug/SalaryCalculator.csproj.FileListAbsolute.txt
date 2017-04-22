@@ -35,4 +35,44 @@ C:\Users\MKeel\documents\visual studio 2015\Projects\SalaryCalculator\SalaryCalc
 C:\Users\MKeel\documents\visual studio 2015\Projects\SalaryCalculator\SalaryCalculator\obj\Debug\android\assets\System.Xml.dll.mdb
 C:\Users\MKeel\documents\visual studio 2015\Projects\SalaryCalculator\SalaryCalculator\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
 C:\Users\MKeel\documents\visual studio 2015\Projects\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.dll.mdb
-C:\Users\MKeel\documents\visual studio 2015\Projects\SalaryCalculator\SalaryCalculator\bin\Debug\SalaryCalculator.dll.mdb
+D:\MKeel\Git_Repositories\Salary_Calculator_Clone\SalaryCalculator\SalaryCalculator\bin\Debug\SalaryCalculator.dll
+D:\MKeel\Git_Repositories\Salary_Calculator_Clone\SalaryCalculator\SalaryCalculator\bin\Debug\SalaryCalculator.pdb
+D:\MKeel\Git_Repositories\Salary_Calculator_Clone\SalaryCalculator\SalaryCalculator\bin\Debug\SalaryCalculator.SalaryCalculator.apk
+D:\MKeel\Git_Repositories\Salary_Calculator_Clone\SalaryCalculator\SalaryCalculator\bin\Debug\SalaryCalculator.SalaryCalculator-Signed.apk
+D:\MKeel\Git_Repositories\Salary_Calculator_Clone\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.csprojResolveAssemblyReference.cache
+D:\MKeel\Git_Repositories\Salary_Calculator_Clone\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.dll
+D:\MKeel\Git_Repositories\Salary_Calculator_Clone\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.pdb
+D:\MKeel\Git_Repositories\Salary_Calculator_Clone\SalaryCalculator\SalaryCalculator\obj\Debug\android\bin\SalaryCalculator.SalaryCalculator.apk
+D:\MKeel\Git_Repositories\Salary_Calculator_Clone\SalaryCalculator\SalaryCalculator\obj\Debug\res\layout\main.xml
+D:\MKeel\Git_Repositories\Salary_Calculator_Clone\SalaryCalculator\SalaryCalculator\obj\Debug\res\values\strings.xml
+D:\MKeel\Git_Repositories\Salary_Calculator_Clone\SalaryCalculator\SalaryCalculator\obj\Debug\res\drawable\icon.png
+D:\MKeel\Git_Repositories\Salary_Calculator_Clone\SalaryCalculator\SalaryCalculator\obj\Debug\R.cs.flag
+D:\MKeel\Git_Repositories\Salary_Calculator_Clone\SalaryCalculator\SalaryCalculator\obj\Debug\uploadflags.txt
+D:\MKeel\Git_Repositories\Salary_Calculator_Clone\SalaryCalculator\SalaryCalculator\bin\Debug\Java.Interop.dll.mdb
+D:\MKeel\Git_Repositories\Salary_Calculator_Clone\SalaryCalculator\SalaryCalculator\bin\Debug\Mono.Android.dll.mdb
+D:\MKeel\Git_Repositories\Salary_Calculator_Clone\SalaryCalculator\SalaryCalculator\bin\Debug\mscorlib.dll.mdb
+D:\MKeel\Git_Repositories\Salary_Calculator_Clone\SalaryCalculator\SalaryCalculator\bin\Debug\SalaryCalculator.dll.mdb
+D:\MKeel\Git_Repositories\Salary_Calculator_Clone\SalaryCalculator\SalaryCalculator\bin\Debug\System.ComponentModel.Composition.dll.mdb
+D:\MKeel\Git_Repositories\Salary_Calculator_Clone\SalaryCalculator\SalaryCalculator\bin\Debug\System.Core.dll.mdb
+D:\MKeel\Git_Repositories\Salary_Calculator_Clone\SalaryCalculator\SalaryCalculator\bin\Debug\System.dll.mdb
+D:\MKeel\Git_Repositories\Salary_Calculator_Clone\SalaryCalculator\SalaryCalculator\bin\Debug\System.Net.Http.dll.mdb
+D:\MKeel\Git_Repositories\Salary_Calculator_Clone\SalaryCalculator\SalaryCalculator\bin\Debug\System.Runtime.Serialization.dll.mdb
+D:\MKeel\Git_Repositories\Salary_Calculator_Clone\SalaryCalculator\SalaryCalculator\bin\Debug\System.ServiceModel.Internals.dll.mdb
+D:\MKeel\Git_Repositories\Salary_Calculator_Clone\SalaryCalculator\SalaryCalculator\bin\Debug\System.Xml.dll.mdb
+D:\MKeel\Git_Repositories\Salary_Calculator_Clone\SalaryCalculator\SalaryCalculator\bin\Debug\System.Xml.Linq.dll.mdb
+D:\MKeel\Git_Repositories\Salary_Calculator_Clone\SalaryCalculator\SalaryCalculator\obj\Debug\android\assets\Java.Interop.dll.mdb
+D:\MKeel\Git_Repositories\Salary_Calculator_Clone\SalaryCalculator\SalaryCalculator\obj\Debug\android\assets\Mono.Android.dll.mdb
+D:\MKeel\Git_Repositories\Salary_Calculator_Clone\SalaryCalculator\SalaryCalculator\obj\Debug\android\assets\mscorlib.dll.mdb
+D:\MKeel\Git_Repositories\Salary_Calculator_Clone\SalaryCalculator\SalaryCalculator\obj\Debug\android\assets\SalaryCalculator.dll.mdb
+D:\MKeel\Git_Repositories\Salary_Calculator_Clone\SalaryCalculator\SalaryCalculator\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+D:\MKeel\Git_Repositories\Salary_Calculator_Clone\SalaryCalculator\SalaryCalculator\obj\Debug\android\assets\System.Core.dll.mdb
+D:\MKeel\Git_Repositories\Salary_Calculator_Clone\SalaryCalculator\SalaryCalculator\obj\Debug\android\assets\System.dll.mdb
+D:\MKeel\Git_Repositories\Salary_Calculator_Clone\SalaryCalculator\SalaryCalculator\obj\Debug\android\assets\System.Net.Http.dll.mdb
+D:\MKeel\Git_Repositories\Salary_Calculator_Clone\SalaryCalculator\SalaryCalculator\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+D:\MKeel\Git_Repositories\Salary_Calculator_Clone\SalaryCalculator\SalaryCalculator\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+D:\MKeel\Git_Repositories\Salary_Calculator_Clone\SalaryCalculator\SalaryCalculator\obj\Debug\android\assets\System.Xml.dll.mdb
+D:\MKeel\Git_Repositories\Salary_Calculator_Clone\SalaryCalculator\SalaryCalculator\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+D:\MKeel\Git_Repositories\Salary_Calculator_Clone\SalaryCalculator\SalaryCalculator\obj\Debug\res\values\styles.xml
+D:\MKeel\Git_Repositories\Salary_Calculator_Clone\SalaryCalculator\SalaryCalculator\obj\Debug\res\layout\toolbar.xml
+D:\MKeel\Git_Repositories\Salary_Calculator_Clone\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.dll.mdb
+D:\MKeel\Git_Repositories\Salary_Calculator_Clone\SalaryCalculator\SalaryCalculator\bin\Debug\SalaryCalculator.dll.mdb

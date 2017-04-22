@@ -121,6 +121,10 @@ namespace SalaryCalculator
         socialClubText.Text = string.Format(Convert.ToString(socialClub));
         netPayText.Text = string.Format(Convert.ToString(monthlyNetPay));
       };
+
+      var toolbar = FindViewById<Toolbar>(Resource.Id.toolbar);
+      SetActionBar(toolbar);
+      ActionBar.Title = "My Toolbar";
     }
   }
 }
