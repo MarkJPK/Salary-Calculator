@@ -2,7 +2,7 @@
 <xs:schema xmlns:android="http://schemas.android.com/apk/res/android" attributeFormDefault="qualified" targetNamespace="http://schemas.android.com/apk/res/android" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v24</xs:documentation>
-    <xs:documentation>22/04/2017 18:08:39</xs:documentation>
+    <xs:documentation>22/04/2017 18:11:18</xs:documentation>
   </xs:annotation>
   <xs:attribute name="accessibilityLiveRegion">
     <xs:annotation>
@@ -769,6 +769,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -1402,6 +1408,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -2072,6 +2084,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -2436,6 +2454,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -2751,6 +2775,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -3376,6 +3406,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -3697,6 +3733,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -4034,6 +4076,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -4314,6 +4362,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -4571,6 +4625,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -5266,6 +5326,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -5683,6 +5749,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -6068,6 +6140,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -6510,6 +6588,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -6825,6 +6909,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -7140,6 +7230,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -7495,6 +7591,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -7810,6 +7912,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -8233,6 +8341,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -8604,6 +8718,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -8885,6 +9005,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -9322,6 +9448,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -9735,6 +9867,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -10266,6 +10404,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -10741,6 +10885,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -11218,6 +11368,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -11829,6 +11985,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -12068,6 +12230,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -12307,6 +12475,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -12546,6 +12720,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -12785,6 +12965,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -13024,6 +13210,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -13263,6 +13455,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -13502,6 +13700,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -13933,6 +14137,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -14199,6 +14409,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -14438,6 +14654,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -14677,6 +14899,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -14916,6 +15144,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -15195,6 +15429,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -15434,6 +15674,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -15749,6 +15995,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -16028,6 +16280,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -16356,6 +16614,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -16595,6 +16859,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -17148,6 +17418,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -17497,6 +17773,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -17831,6 +18113,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -18396,6 +18684,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -18721,6 +19015,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -19120,6 +19420,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -19479,6 +19785,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -19734,6 +20046,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -22030,6 +22348,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -22391,6 +22715,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -23384,6 +23714,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -23635,6 +23971,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -23915,6 +24257,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -24194,6 +24542,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -24433,6 +24787,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -24672,6 +25032,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -24911,6 +25277,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -25150,6 +25522,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -25854,6 +26232,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -26110,6 +26494,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -26425,6 +26815,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -27168,6 +27564,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -27523,6 +27925,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -27762,6 +28170,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -28168,6 +28582,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -28515,6 +28935,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -28754,6 +29180,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -29535,6 +29967,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -29774,6 +30212,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -30013,6 +30457,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -30252,6 +30702,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -30671,6 +31127,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -30910,6 +31372,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -31315,6 +31783,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -31554,6 +32028,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -31869,6 +32349,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -32549,6 +33035,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -33079,6 +33571,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -33452,6 +33950,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -34650,6 +35154,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -34930,6 +35440,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -35258,6 +35774,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -35577,6 +36099,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -35816,6 +36344,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -36095,6 +36629,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -36334,6 +36874,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -36720,6 +37266,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -36959,6 +37511,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -37274,6 +37832,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -37589,6 +38153,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -37904,6 +38474,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -38219,6 +38795,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -38484,6 +39066,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -38723,6 +39311,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -38962,6 +39556,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -39201,6 +39801,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -39440,6 +40046,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -39679,6 +40291,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -39918,6 +40536,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -40331,6 +40955,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -40570,6 +41200,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -40809,6 +41445,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -41993,6 +42635,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -42420,6 +43068,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -43165,6 +43819,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -43573,6 +44233,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -44323,6 +44989,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -44786,6 +45458,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -45041,6 +45719,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -45280,6 +45964,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -45519,6 +46209,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -45834,6 +46530,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -46201,6 +46903,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -46440,6 +47148,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/ic_action_content_create" />
+            <xs:enumeration value="@drawable/ic_action_content_save" />
+            <xs:enumeration value="@drawable/ic_menu_copy_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_cut_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_paste_holo_dark" />
+            <xs:enumeration value="@drawable/ic_menu_search_holo_dark" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
